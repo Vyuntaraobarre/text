@@ -1,0 +1,4 @@
+std name:b.vykunta rao
+std roll no:28
+suc id:2350250287
+class/sec:Bsc a section
